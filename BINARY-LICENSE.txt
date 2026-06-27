@@ -1,0 +1,40 @@
+# PresentationTimer Binary License
+
+Copyright (c) 2026 PresentationTimer Project.
+All rights reserved.
+
+This license applies to the compiled binaries, executable files, installer packages, archives, and accompanying documentation distributed for PresentationTimer.
+
+## Permission
+
+You may download, install, and use PresentationTimer for personal, educational, presentation, or internal business purposes.
+
+You may also make backup copies solely for your own use.
+
+## Restrictions
+
+You may not:
+
+* redistribute, sublicense, sell, rent, lease, or otherwise provide the software to any third party;
+* modify, adapt, translate, or create derivative works based on the software;
+* reverse engineer, decompile, disassemble, or otherwise attempt to derive its source code, except to the extent permitted by applicable law;
+* remove or alter any copyright, license, or attribution notice;
+* use the name, logo, or branding of PresentationTimer in a manner that implies endorsement or affiliation without prior permission.
+
+No rights to the source code are granted under this license.
+
+## Third-Party Components
+
+PresentationTimer may include or depend on third-party components. Such components remain subject to their respective license terms.
+
+## No Warranty
+
+The software is provided “as is”, without warranty of any kind, express or implied, including warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+## Limitation of Liability
+
+To the maximum extent permitted by applicable law, the copyright holder shall not be liable for any claim, damage, loss, or other liability arising from or related to the software or its use.
+
+## Termination
+
+Your permission to use the software terminates automatically if you violate this license.
