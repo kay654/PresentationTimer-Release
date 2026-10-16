@@ -14,7 +14,9 @@ It stays on top of your slides so you can keep track of the remaining time witho
 - Minute and second time configuration
 - Visual warning when the remaining time is low
 - Strong time-up indication with a pulsing red highlight and `TIME UP` label
-- Saved timer duration, warning threshold, display mode, topmost setting, and window position
+- Time-up chime with one reminder about 3 seconds later
+- Saved timer duration, warning threshold, display mode, topmost setting, sound setting, and window position
+- Automatic return to a visible default position if the saved window position is off-screen
 
 ## System Requirements
 
@@ -30,6 +32,8 @@ It stays on top of your slides so you can keep track of the remaining time witho
 5. Use pause, resume, or reset as needed.
 
 When the timer reaches zero, the display changes to a clear time-up state so it is easier to notice during a presentation.
+
+Toggle sound with the speaker icon in the settings panel (green: on; gray: muted). Resetting the timer, muting sound, or closing the app cancels a pending reminder.
 
 ## Distribution
 
@@ -61,7 +65,9 @@ Presentation Timer は、プレゼン中に残り時間を確認するための 
 - 分・秒による時間設定
 - 残り時間が少なくなったときの視覚的な警告表示
 - タイムアップ時の赤いパルス演出と `TIME UP` 表示
-- タイマー時間、警告閾値、表示モード、常時前面設定、ウィンドウ位置の保存
+- タイムアップ時のチャイムと、約3秒後の1回の再通知
+- タイマー時間、警告閾値、表示モード、常時前面設定、通知音設定、ウィンドウ位置の保存
+- 保存位置が画面外の場合は、画面内の初期位置へ自動復帰
 
 ## 動作環境
 
@@ -77,6 +83,8 @@ Presentation Timer は、プレゼン中に残り時間を確認するための 
 5. 必要に応じて、一時停止、再開、リセットを行います。
 
 残り時間が 0 になると、タイムアップに気づきやすいように表示が強調されます。
+
+設定パネルのスピーカーアイコンで通知音を切り替えられます（緑：ON、グレー：消音）。リセット・消音・アプリ終了で、待機中の再通知をキャンセルします。
 
 ## 配布について
 
